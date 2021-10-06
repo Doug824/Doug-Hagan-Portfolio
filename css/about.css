@@ -1,0 +1,22 @@
+#about {
+    padding:75px 15px;
+    border-bottom:1px solid #64ffda;
+    border-top:1px solid #64ffda;
+    background-color: #233554;
+}
+
+#about h2 {
+    color:#64ffda;
+}
+
+#about p {
+    color:#ccd6f6;
+    margin:0;
+    font-size: 18px;
+}
+
+#profile_picture {
+    border-radius: 50%;
+    margin-left: 30px;
+    border: 5px solid #64ffda;
+}

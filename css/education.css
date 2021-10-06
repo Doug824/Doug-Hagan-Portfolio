@@ -1,0 +1,49 @@
+#education {
+    padding:50px 15px 20px 15px;
+    border-bottom:1px solid #64ffda;
+    text-align:center;
+    background-color: #233554;
+}
+
+#education h2 {
+    color:#64ffda;
+    margin-bottom:50px;
+    font-size: 40px;
+}
+
+.education-block {
+    max-width:700px;
+    margin:0 auto 30px auto;
+    padding:15px;
+    border:1px solid #ccd6f6;
+    text-align:left;
+}
+
+.education-block h3 {
+    font-weight:500;
+    float:left;
+    margin:0;
+    color:#64ffda;
+}
+    
+.education-block span {
+    color:#8892b0;
+    float:right;
+}
+
+.education-block h4 {
+    color:#ccd6f6;
+    clear:both;
+    font-weight:500;
+    margin:0 0 15px 0;
+}
+
+.education-block p,.education-block ul {
+    margin:0;
+    color:#ccd6f6;
+    font-size:0.9em;
+}
+
+.education-block ul {
+    padding:0 0 0 15px;
+}
